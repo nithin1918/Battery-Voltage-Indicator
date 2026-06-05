@@ -1,0 +1,1 @@
+This project presents the design and implementation of a battery voltage indicator intended to monitor the voltage status of batteries in electronic devices. Through the utilization of standard electronic components and a straightforward circuit design
